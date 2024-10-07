@@ -1,0 +1,14 @@
+F:\Kodzenie\Kod\.NET\repo\CalcC-\bin\Debug\net8.0\CalcC-.exe
+F:\Kodzenie\Kod\.NET\repo\CalcC-\bin\Debug\net8.0\CalcC-.deps.json
+F:\Kodzenie\Kod\.NET\repo\CalcC-\bin\Debug\net8.0\CalcC-.runtimeconfig.json
+F:\Kodzenie\Kod\.NET\repo\CalcC-\bin\Debug\net8.0\CalcC-.dll
+F:\Kodzenie\Kod\.NET\repo\CalcC-\bin\Debug\net8.0\CalcC-.pdb
+F:\Kodzenie\Kod\.NET\repo\CalcC-\obj\Debug\net8.0\CalcC-.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kodzenie\Kod\.NET\repo\CalcC-\obj\Debug\net8.0\CalcC-.AssemblyInfoInputs.cache
+F:\Kodzenie\Kod\.NET\repo\CalcC-\obj\Debug\net8.0\CalcC-.AssemblyInfo.cs
+F:\Kodzenie\Kod\.NET\repo\CalcC-\obj\Debug\net8.0\CalcC-.csproj.CoreCompileInputs.cache
+F:\Kodzenie\Kod\.NET\repo\CalcC-\obj\Debug\net8.0\CalcC-.dll
+F:\Kodzenie\Kod\.NET\repo\CalcC-\obj\Debug\net8.0\refint\CalcC-.dll
+F:\Kodzenie\Kod\.NET\repo\CalcC-\obj\Debug\net8.0\CalcC-.pdb
+F:\Kodzenie\Kod\.NET\repo\CalcC-\obj\Debug\net8.0\CalcC-.genruntimeconfig.cache
+F:\Kodzenie\Kod\.NET\repo\CalcC-\obj\Debug\net8.0\ref\CalcC-.dll
